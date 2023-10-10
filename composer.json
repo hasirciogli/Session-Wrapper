@@ -1,0 +1,20 @@
+{
+    "name": "hasirciogli/session-wrapper",
+    "description": "Session Wrapper&Library class for php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hasirciogli\\SessionWrapper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mustafa Hasırcıoğlu - Linux",
+            "email": "mhasirciogli@gmail.com"
+        }
+    ],
+    "require": {
+        "hasirciogli/hdb": "^1.0"
+    }
+}
